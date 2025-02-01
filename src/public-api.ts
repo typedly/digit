@@ -4,5 +4,7 @@
 
 export type {
   Digit,
-  DigitString
+  DigitString,
+  SubscriptDigit,
+  SuperscriptDigit,
 } from './lib';
