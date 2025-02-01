@@ -23,6 +23,8 @@ A **TypeScript** type definitions package for digit types.
 - [Api](#api)
   - `Digit`
   - `DigitString`
+  - `SubscriptDigit`
+  - `SuperscriptDigit`
 - [Contributing](#contributing)
 - [Support](#support)
 - [Code of Conduct](#code-of-conduct)
@@ -43,7 +45,9 @@ npm install @typedly/digit --save-peer
 import {
   // Type.
   Digit,
-  DigitString
+  DigitString,
+  SubscriptDigit,
+  SuperscriptDigit,
 } from '@typedly/digit';
 ```
 
