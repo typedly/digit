@@ -1,6 +1,6 @@
 {
   "name": "@typedly/digit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "wwwdev.io <dev@wwwdev.io>",
   "description": "A TypeScript type definitions package for digit types.",
   "license": "MIT",
