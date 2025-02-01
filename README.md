@@ -15,7 +15,7 @@
 
 **Version:** v1.0.0
 
-A **TypeScript** type definitions package for handling digit types.
+A **TypeScript** type definitions package for digit types.
 
 ## Table of contents
 
@@ -42,6 +42,8 @@ npm install @typedly/digit --save-peer
 ```typescript
 import {
   // Type.
+  Digit,
+  DigitString
 } from '@typedly/digit';
 ```
 
